@@ -39,6 +39,7 @@ Successfully engineered a data pipeline to transform **805,620 raw transactions*
 │   ├── Project_Report.md       # Detailed methodology and business findings
 │   └── Technical_Specs.pdf     # Database architecture and ML hyperparameters
 └── README.md                   # Project summary and quick-start guide
+```
 
 ## 📊 Data Source
 The dataset used in this project is the **Online Retail II** dataset from the **UCI Machine Learning Repository**. 
