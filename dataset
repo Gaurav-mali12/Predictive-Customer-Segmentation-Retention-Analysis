@@ -11,7 +11,5 @@ The raw data for this project exceeds GitHub's standard file size limits. To ens
 * **Format:** CSV (comma-separated values)
 * **Description:** This dataset contains all transactions occurring for a UK-based non-store online retail between 2009 and 2011.
 
-### 🛠️ Instructions
-1. Download the `online_retail_II.csv` file from the link above.
-2. Place the file into this folder (`/data/raw/`).
-3. Run the `Data_load.sql` script located in `scripts/sql/` to import the data into your MySQL environment.
+
+
