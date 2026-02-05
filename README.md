@@ -25,16 +25,15 @@ Successfully engineered a data pipeline to transform **805,620 raw transactions*
 ## 📂 Repository Structure
 ```text
 ├── data/
-│   |   ├── link to download dataset
-
+│   ├── link to download dataset
 ├── scripts/
 │   ├── sql/
-│   │   ├── DDL.sql             # Table schemas and constraints
-│   │   ├── Data_load.sql       # Bulk data import and Local Infile handling
-│   │   ├── Data_Quality_check.sql # Outlier detection (74k qty fix) & null audits
-│   │   └── clean_data.sql      # Final ETL and feature engineering
+│   │   ├── DDL.sql               # Database schema & table creation
+│   │   ├── Data_load.sql         # LOAD DATA LOCAL INFILE process
+│   │   ├── Data_Quality_check.sql # Outlier detection (74k qty fix)
+│   │   └── clean_data.sql        # Final ETL & Total_Price calculation
 │   └── python/
-│       └── analysis_ml.py      # RFM Scoring & Random Forest Churn Model
+│       └── analysis_ml.py        # RFM & Random Forest Model
 ├── documents/
 │   ├── Project_Report.md       # Detailed methodology and business findings
 │   └── Technical_Specs.pdf     # Database architecture and ML hyperparameters
