@@ -25,8 +25,8 @@ Successfully engineered a data pipeline to transform **805,620 raw transactions*
 ## 📂 Repository Structure
 ```text
 ├── data/
-│   ├── raw/                    # Original Kaggle Dataset (Online Retail II)
-│   └── processed/              # Cleaned data exported from MySQL
+│   |   ├── link to download dataset
+
 ├── scripts/
 │   ├── sql/
 │   │   ├── DDL.sql             # Table schemas and constraints
