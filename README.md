@@ -46,4 +46,14 @@ The dataset used in this project is the **Online Retail II** dataset from the **
 * **Description:** Contains all transactions occurring for a UK-based and registered non-store online retail between 01/12/2009 and 09/12/2011.
 
 ## ⚖️ License
-This project is licensed under the **MIT License**. You are free to use, modi
+This project is licensed under the **MIT License**. You are free to use, modify
+
+---
+
+## 👨‍💻 Author
+
+Gaurav Mali  
+Aspiring Data Scientist | Python | SQL | Machine Learning
+
+If you found this project useful, consider giving it a ⭐ on GitHub.
+
